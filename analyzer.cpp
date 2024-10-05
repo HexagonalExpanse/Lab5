@@ -13,7 +13,7 @@ int main() {
     std::vector<std::string> wordList = getStringData();
     test_algorithm(&wordList, "not_here");
     test_algorithm(&wordList, "mzzzz");
-    test_algorithm(&wordList, "iaaaaa");
+    test_algorithm(&wordList, "aaaaa");
     return 0;
 }
 
